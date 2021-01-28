@@ -4,7 +4,7 @@
 
 Cross-stitching is a type of needlework. It is a simple hand embroidery named for its X-shaped stitches. The stitches are on Aida. Aida is a specific material that has small holes in the fabric. Many people begin the activity because it is easy to master.
 
-### WARNING: Sharp needles may cause harm to the user. Please have adult supervision.
+### WARNING: Sharp needles may cause harm to the user.
 
 ## Required Materials
 
