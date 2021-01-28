@@ -61,6 +61,7 @@ Cross-stitching is a type of needlework. It is a simple hand embroidery named fo
 7. Pull the needle down and through
 
    > The stitch should be one diagonal
+   > 
    > ![first](first.jpg)
 
 8. Insert the needle in the hole below the stitch you just made
