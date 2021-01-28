@@ -77,8 +77,6 @@ Cross-stitching is a type of needlework. It is a simple hand embroidery named fo
 11. Pull the needle down and through.
 
    > This should create the X shape.
-
    > Continue steps 9 - 11 until you complete each X stitch
-
    ![second](second.jpg)
 
