@@ -34,7 +34,7 @@ Cross-stitching is a type of needlework. It is a simple hand embroidery named fo
 
    - Tightly pull the Aida fabric
 
-   > ![hoop](hoop.jpg)
+     > ![hoop](hoop.jpg)
 
 3. Prepare the needle
 
