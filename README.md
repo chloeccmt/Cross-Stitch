@@ -16,6 +16,7 @@ Cross-stitching is a type of needlework. It is a simple hand embroidery that is 
     - Place the Aida fabric in between the top and bottom part of the embroidery hoop
     - Tighten the hoop by twisting the knob on the top of the hoop
     - Pull the Aida fabric tightly
+    hoop.jpg
 3. Prepare the needle
     - Cut 12 inches of the embroidery thread
     - Separate 2 pieces of the thread
