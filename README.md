@@ -24,14 +24,14 @@ Cross-stitching is a type of needlework. It is a simple hand embroidery named fo
     - Insert the 2 pieces of thread into the needle
     - Create a small knot at the end of the thread
         > Note: There are 6 pieces of thread that make up the embroidery thread. Take 2 of the 6 pieces to use 
-        ![thread](thread.jpg)
+        > 
+        > ![thread](thread.jpg)
 4. Insert the needle into a hole through the bottom of the fabric 
 5. Pull the needle up and through
 6. Re-Insert the needle into the hole diagonally to the right through the top
 7. Pull the needle down and through
     > The stitch should be one diagonal
-    
-    ![first](first.jpg)
+    > ![first](first.jpg)
 8. Insert the needle in the hole below the stitch you just made
     > Continue steps 5 - 8 until you are satisfied with the length
 9. Pull the needle up and through
