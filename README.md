@@ -1,6 +1,4 @@
- 
-
-# How to Cross-Stitch
+ # How to Cross-Stitch
 
 Cross-stitching is a type of needlework. It is a simple hand embroidery named for its X-shaped stitches. The stitches are on Aida. Aida is a specific material that has small holes in the fabric. Many people begin the activity because it is easy to master.
 
