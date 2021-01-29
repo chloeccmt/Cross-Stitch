@@ -44,7 +44,7 @@ Cross-stitching is a type of needlework. It is a simple hand embroidery named fo
 
    - Create a small knot at the end of the thread
 
-       > Note: There are 6 pieces of thread that make up the embroidery thread. Take 2 of the 6 pieces to use 
+       > There are 6 pieces of thread that make up the embroidery thread. Take 2 of the 6 pieces to use 
        > 
        > ![thread](thread.jpg)
 
