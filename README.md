@@ -10,7 +10,7 @@ Cross-stitching is a type of needlework. It is a simple hand embroidery named fo
 
 - Aida fabric 
 
-   > Note: There are different sizes of Aida. Size 14 is standard for beginners. Higher numbers will create a smaller pattern.
+   > There are different sizes of Aida. Size 14 is standard for beginners. Higher numbers will create a smaller pattern.
 
 - Embroidery thread
 
